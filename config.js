@@ -49,8 +49,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yee! I'm the happiest person in the world! 🎉💖💓",
-        message: "Wait until I come to you and get your gift, a big warm hug and a hot kiss 🥵!",
-        emojis: "🎁💖🤗💝❤️"  // These will bounce around
+        message: "Wait until I come to you and get your gift, a big warm hug and a hot kiss!",
+        emojis: "🎁💖🫂😘❤️"  // These will bounce around
     },
 
     // Color scheme for the website
